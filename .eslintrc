@@ -1,0 +1,11 @@
+extends:
+  - airbnb
+
+# registerenvironments
+env:
+  browser: true
+
+globals:
+  # collections
+  d3: true
+  TL: true
